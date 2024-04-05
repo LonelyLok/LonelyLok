@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋
+
+I'm Henry, and welcome to my GitHub profile!
+
+- 🚀 **Me with ChatGPT = Unstoppable**
+- 🥔 **Me without ChatGPT = Potato**
